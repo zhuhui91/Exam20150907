@@ -1,0 +1,24 @@
+.body1{
+    width: 75%;
+    height: 760px;
+    margin: 0 auto;
+    background-image: url("img/hipude.jpg");
+}
+.form1{
+    width: 50%;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: #dff0d8;
+}
+.form1-1{
+  width: 100%;
+  height: 50px;
+}
+.form12{
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 50px;
+}

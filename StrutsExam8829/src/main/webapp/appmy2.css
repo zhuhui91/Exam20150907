@@ -1,0 +1,48 @@
+.body0{
+    height: 30px;
+    width: auto;
+    background-color: #269abc;
+}
+
+.dody1{	
+	 width: 100%;
+	height: auto;
+	margin: 0px auto;
+}
+
+.dody11{
+	height: 200px;
+    width: 150px;
+	float: left;
+}
+
+.customer{
+	float: right;
+	width: 85%;
+    height: 100%;
+    position: relative;
+    margin-right: 50px;
+}
+
+.ct1{
+	margin: 0px auto;
+	 position: relative;
+}
+
+#td1{
+    width: 450px;
+}
+.table{
+	border-collapse: collapse; 
+    border: none; 
+    width: 100%;
+}
+
+.th{
+	border: solid #400040; 
+}
+
+.td 
+{ 
+border: solid blue; 
+} 

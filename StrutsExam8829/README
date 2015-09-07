@@ -1,0 +1,7 @@
+mvn clean 
+1,mvn compile
+2,mvn tomcat:run ;启动tomcat
+在浏览器输入:http://localhost:8080/StrutsExam8829/login.jsp
+数据库登录名：root
+密码:""
+登录密码为空
